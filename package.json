@@ -1,0 +1,11 @@
+{
+  "name": "tailwind-tut",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "build:css": "npx tailwindcss -i ./src/style.css -o ./dist/stylesheet.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
